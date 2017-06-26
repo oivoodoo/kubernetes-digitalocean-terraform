@@ -16,7 +16,7 @@ spec:
     protocol: TCP
   externalIPs:
   - $EXT_IP1
-    
+
 
 ---
 
